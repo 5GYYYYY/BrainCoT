@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Experiment artifacts
+checkpoints/
+outputs/
+logs/
+wandb/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Local datasets and private submission materials
+data/
+datasets/
+private/
+submission/
+_NeurIPS_*.pdf
