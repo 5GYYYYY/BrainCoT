@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/5GYYYYY/BrainCoT/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
-  <img src="https://img.shields.io/badge/NeurIPS-2026-blue.svg" alt="NeurIPS 2026">
+  <img src="https://img.shields.io/badge/NeurIPS%202026-Poster-blue.svg" alt="NeurIPS 2026 Poster">
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange.svg" alt="Code coming soon">
 </p>
 
 > [!IMPORTANT]
-> **Release status:** The research code, pretrained checkpoints, data-processing scripts, and reproduction instructions are currently being organized. They will be released upon paper acceptance. Please star or watch this repository for updates.
+> 🎉 **Accepted at NeurIPS 2026 as a Poster.** The research code, pretrained checkpoints, data-processing scripts, and reproduction instructions are currently being organized and will be released soon. Please star or watch this repository for updates.
 
 ## Overview
 
@@ -65,14 +65,13 @@ The repository currently serves as the official project page while these materia
 
 ## Citation
 
-The paper is currently under anonymous review. Complete citation metadata will be added after the review process. In the meantime, please cite the repository as:
+BrainCoT has been accepted as a Poster at NeurIPS 2026. The complete author list, paper link, and proceedings metadata will be added when the camera-ready paper becomes publicly available. In the meantime, please cite the repository as:
 
 ```bibtex
 @misc{braincot2026,
-  author = {Anonymous},
   title  = {BrainCoT: A Multi-Task Zero-Shot Brain Signal Foundation Model with Neurometric-Anchored Chain-of-Thought Reasoning},
   year   = {2026},
-  note   = {NeurIPS 2026 submission. Code forthcoming},
+  note   = {Accepted as a Poster at NeurIPS 2026. Code forthcoming},
   url    = {https://github.com/5GYYYYY/BrainCoT}
 }
 ```
